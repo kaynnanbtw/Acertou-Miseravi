@@ -50,4 +50,4 @@ A função `main` é o ponto de entrada do programa. Ela lê o número de casos 
 O exemplo fornecido demonstra a entrada e saída esperada do programa para ilustrar seu funcionamento.
 
 ## Uso
-Para usar o código, basta compilar e executar em um ambiente de desenvolvimento C, fornecendo a entrada conforme as especificações do projeto. Certifique-se de que o código está em conformidade com os requisitos do projeto antes de utilizá-lo em outros cenários.
+Para usar o código, basta compilar e executar em um ambiente de desenvolvimento C, fornecendo a entrada conforme as especificações do projeto.
