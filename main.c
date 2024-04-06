@@ -1,16 +1,13 @@
 #include <stdio.h>
 
-// Função para realizar a adição (o = 1)
 long long int adicao(long long int a, long long int b) {
     return a + b;
 }
 
-// Função para realizar a subtração (o = 2)
 long long int subtracao(long long int a, long long int b) {
     return a - b;
 }
 
-// Função para realizar a multiplicação (o = 3)
 long long int multiplicacao(long long int a, long long int b) {
     return a * b;
 }
